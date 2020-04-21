@@ -1,5 +1,5 @@
 This repository consists of Graph Algorithm
 
 Authors
-Sai Jyotirmayee \
+Sai Jyotirmayee Rout\
 Debesh Mohanty

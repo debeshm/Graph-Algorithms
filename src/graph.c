@@ -16,6 +16,6 @@ Debesh Mohanty
 
 int main()
 {
-	printf("hello");
+	printf("hello mamani");
 	return 0;
 }
