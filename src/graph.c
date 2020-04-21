@@ -16,5 +16,6 @@ Debesh Mohanty
 
 int main()
 {
-	return 0
+	printf("hello");
+	return 0;
 }
